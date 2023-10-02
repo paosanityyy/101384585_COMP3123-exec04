@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Paolo Casison",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
